@@ -14,6 +14,7 @@
             "ignore": false,
             "defaultInstantiationMode": 0,
             "supportsModification": true
+        },
         {
             "userAdded": false,
             "type": "UnityEngine.AnimatorOverrideController",
